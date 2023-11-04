@@ -4,8 +4,8 @@ export function Navbar() {
     <nav>
       <ul>
         <li>
-          <a href="#realestateprofessional">Real Estate Professional</a>
-          <a href="#thebecgroup"> The Bec Group</a>
+          <a href="#Yourrealestateexperts">Your Real Estate </a>
+          <a href="#Experts">Experts</a>
         </li>
       </ul>
     </nav>
