@@ -1,11 +1,16 @@
-import { Navbar } from "./Navbar.jsx"
+import { Footer } from "./Footer.jsx";
+import { Hero } from "./HeroSection.jsx";
+import { Navbar } from "./Navbar.jsx";
+
 
 export function App(){
   return (
     <>
     <Navbar />
+    <Hero/>
     <Test />
     <Section />
+    <Footer />
     </>
   )
 }
